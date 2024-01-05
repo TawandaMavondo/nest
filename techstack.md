@@ -126,7 +126,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TawandaMavondo/nest](https://github.com/TawandaMavondo/nest)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|143<br/>Tools used|12/09/23 <br/>Report generated|
+|145<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -651,9 +651,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (83)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (85)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (83)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (85)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -717,8 +717,10 @@ Full tech stack [here](/techstack.md)
 |[gulp-watch](https://www.npmjs.com/gulp-watch)|v5.0.1|03/02/20|Kamil Myśliwiec |MIT|N/A|
 |[handlebars](https://www.npmjs.com/handlebars)|v4.7.6|04/03/20|Renovate Bot |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)|
 |[hbs](https://www.npmjs.com/hbs)|v4.1.1|01/02/18|Kamil Myśliwiec |MIT|[CVE-2021-32822](https://github.com/advisories/GHSA-7f5c-rpf4-86p8) (Moderate)|
+|[husky](https://www.npmjs.com/husky)|v4.3.0|09/07/20|Renovate Bot |MIT|N/A|
 |[imports-loader](https://www.npmjs.com/imports-loader)|v1.1.0|08/17/20|Renovate Bot |MIT|N/A|
 |[json-loader](https://www.npmjs.com/json-loader)|v0.5.7|09/10/20|Renovate Bot |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.3.0|09/14/20|Renovate Bot |MIT|N/A|
 |[multer](https://www.npmjs.com/multer)|v1.4.2|09/03/20|Renovate Bot |MIT|N/A|
 |[mysql2](https://www.npmjs.com/mysql2)|v2.1.0|12/24/19|Renovate Bot |MIT|N/A|
 |[nyc](https://www.npmjs.com/nyc)|v15.1.0|01/08/17|kamil.mysliwiec |ISC|N/A|
