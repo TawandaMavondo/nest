@@ -1,11 +1,12 @@
 repo_name: TawandaMavondo/nest
 report_id: 6c7159ed2ae8c237a5606a76993304ad
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-09T20:10:49+00:00'
+timestamp: '2024-01-05T08:27:46+00:00'
 requested_by: kamilmysliwiec
 provider: github
 branch: master
-detected_tools_count: 143
+detected_tools_count: 145
 tools:
 - name: Handlebars.js
   description: Minimal Templating on Steroids
@@ -16,7 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1143/Handlebars.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: sample/17-mvc-fastify/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-04-03 18:09:49.000000000 Z
@@ -29,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/TawandaMavondo/nest
   detection_source: Repo Metadata
 - name: Pug
   description: Robust, elegant, feature rich template engine for nodejs
@@ -38,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1175/pug.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/15-mvc/package.json
   detection_source: sample/15-mvc/package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2018-01-02 11:38:48.000000000 Z
@@ -50,6 +53,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/TawandaMavondo/nest
   detection_source: Repo Metadata
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
@@ -62,7 +66,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-07 09:38:37.000000000 Z
@@ -75,7 +79,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/7609/24939410.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-03 18:40:17.000000000 Z
@@ -90,7 +94,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/8747/4zsOyxko_400x400.jpg
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
   detection_source: package.json
   last_updated_by: kamil.mysliwiec
   last_updated_on: 2017-01-08 14:09:41.000000000 Z
@@ -103,6 +107,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package.json
   detection_source: package.json
   last_updated_by: kamil.mysliwiec
   last_updated_on: 2017-02-05 21:57:31.000000000 Z
@@ -115,7 +120,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/1796/984368.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: kamil.mysliwiec
   last_updated_on: 2017-01-08 14:09:41.000000000 Z
@@ -129,7 +134,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/7419/20165699.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: kamil.mysliwiec
   last_updated_on: 2017-01-08 14:09:41.000000000 Z
@@ -142,6 +147,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Remote Procedure Call (RPC)
   image_url: https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package.json
   detection_source: package.json
   last_updated_by: kamil.mysliwiec
   last_updated_on: 2017-01-08 14:09:41.000000000 Z
@@ -153,6 +159,7 @@ tools:
   category: Data Stores
   sub_category: Background Processing
   image_url: https://img.stackshare.io/service/9146/bull-logo.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/26-queues/package.json
   detection_source: sample/26-queues/package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2019-12-15 10:14:32.000000000 Z
@@ -164,6 +171,7 @@ tools:
   category: Data Stores
   sub_category: SQL Database as a Service
   image_url: https://img.stackshare.io/service/21275/default_078eb0ae2b56280a937ed073a3ba4332291f9ba8.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/integration/docker-compose.yml
   detection_source: integration/docker-compose.yml
   last_updated_by: Renovate Bot
   last_updated_on: 2020-07-14 03:24:08.000000000 Z
@@ -175,6 +183,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Query Languages
   image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-14 01:28:06.000000000 Z
@@ -187,6 +196,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/integration/docker-compose.yml
   detection_source: integration/docker-compose.yml
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-31 06:48:24.000000000 Z
@@ -198,6 +208,7 @@ tools:
   category: Data Stores
   sub_category: Kafka Tools
   image_url: https://img.stackshare.io/service/8938/default_952e19080b823dcfc14ef0508ae6a783d35224f6.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/integration/docker-compose.yml
   detection_source: integration/docker-compose.yml
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-31 06:48:24.000000000 Z
@@ -209,6 +220,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/3670/mqtticon-large_400x400.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package.json
   detection_source: package.json
   last_updated_by: kamil.mysliwiec
   last_updated_on: 2017-01-08 14:09:41.000000000 Z
@@ -221,7 +233,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: integration/docker-compose.yml
   last_updated_by: Michael Kaufman
   last_updated_on: 2019-06-26 15:26:02.000000000 Z
@@ -235,7 +247,7 @@ tools:
   category: Data Stores
   sub_category: Object Document Mapper (ODM)
   image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-11 17:36:46.000000000 Z
@@ -247,6 +259,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/3199/mosquitto-logo-only.svg.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/integration/docker-compose.yml
   detection_source: integration/docker-compose.yml
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2018-03-18 14:49:26.000000000 Z
@@ -259,7 +272,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: integration/docker-compose.yml
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2018-03-17 14:01:17.000000000 Z
@@ -273,7 +286,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/2066/nats-icon-color.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: kamil.mysliwiec
   last_updated_on: 2017-01-08 14:09:41.000000000 Z
@@ -285,6 +298,7 @@ tools:
   category: Data Stores
   sub_category: Message Queue
   image_url: https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/integration/docker-compose.yml
   detection_source: integration/docker-compose.yml
   last_updated_by: Michael Kaufman
   last_updated_on: 2019-06-26 15:26:02.000000000 Z
@@ -298,7 +312,7 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: integration/docker-compose.yml
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2018-03-18 14:49:26.000000000 Z
@@ -312,7 +326,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/3211/3591786.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/07-sequelize/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/07-sequelize/package-lock.json
   detection_source: sample/07-sequelize/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-21 08:38:23.000000000 Z
@@ -325,7 +339,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-11 09:58:54.000000000 Z
@@ -337,6 +351,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/benchmarks/all_output.txt
   detection_source: benchmarks/all_output.txt
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2018-09-09 11:42:04.000000000 Z
@@ -349,6 +364,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package.json
   detection_source: package.json
   last_updated_by: kamil.mysliwiec
   last_updated_on: 2017-01-08 14:09:41.000000000 Z
@@ -362,7 +378,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: sample/09-babel-example/.babelrc
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2019-10-11 08:29:51.000000000 Z
@@ -376,7 +392,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: kamil.mysliwiec
   last_updated_on: 2017-01-08 14:09:41.000000000 Z
@@ -388,6 +404,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/.circleci/config.yml
   detection_source: ".circleci/config.yml"
   last_updated_by: Kamil Mysliwiec
   last_updated_on: 2020-06-23 10:59:41.000000000 Z
@@ -400,6 +417,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-04-24 22:44:52.000000000 Z
@@ -412,6 +430,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/integration/docker-compose.yml
   detection_source: integration/docker-compose.yml
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2018-03-17 14:01:17.000000000 Z
@@ -424,6 +443,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Container Tools
   image_url: https://img.stackshare.io/service/3136/docker-compose.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/integration/docker-compose.yml
   detection_source: integration/docker-compose.yml
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2018-03-17 14:01:17.000000000 Z
@@ -436,6 +456,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/25-dynamic-modules/package.json
   detection_source: sample/25-dynamic-modules/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2019-10-16 01:55:28.000000000 Z
@@ -448,6 +469,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package.json
   detection_source: package.json
   last_updated_by: kamil.mysliwiec
   last_updated_on: 2017-01-08 14:09:41.000000000 Z
@@ -459,6 +481,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TawandaMavondo/nest
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -468,6 +491,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/.github/workflows/codeql-analysis.yml
   detection_source: ".github/workflows/codeql-analysis.yml"
   last_updated_by: Kamil Mysliwiec
   last_updated_on: 2020-07-29 07:07:14.000000000 Z
@@ -481,7 +505,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
   detection_source: sample/01-cats-app/package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2017-08-29 21:14:36.000000000 Z
@@ -496,7 +520,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-28 21:06:09.000000000 Z
@@ -510,7 +534,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-26 07:07:23.000000000 Z
@@ -523,7 +547,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/3509/logo.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-21 18:58:43.000000000 Z
@@ -537,7 +561,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2019-03-19 07:53:59.000000000 Z
@@ -551,7 +575,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
   detection_source: sample/08-webpack/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-07-30 08:24:10.000000000 Z
@@ -565,7 +589,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/844/iruTC031.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2020-03-02 12:46:26.000000000 Z
@@ -579,7 +603,7 @@ tools:
   category: Monitoring
   sub_category: node.js Application Monitoring
   image_url: https://img.stackshare.io/service/5577/preview.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-21 18:32:24.000000000 Z
@@ -591,6 +615,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/25-dynamic-modules/package.json
   detection_source: sample/25-dynamic-modules/package.json
   last_updated_by: John Biundo
   last_updated_on: 2019-09-09 22:24:36.000000000 Z
@@ -604,7 +629,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/5508/CyUH653y.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/12-graphql-schema-first/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/12-graphql-schema-first/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-27 18:49:34.000000000 Z
@@ -617,6 +642,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/26-queues/docker-compose.yml
   detection_source: sample/26-queues/docker-compose.yml
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2019-12-15 10:14:32.000000000 Z
@@ -626,6 +652,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/02-gateways/client/index.html
   detection_source: sample/02-gateways/client/index.html
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2017-09-05 08:45:17.000000000 Z
@@ -637,6 +664,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/benchmarks/all_output.txt
   detection_source: benchmarks/all_output.txt
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2018-09-09 11:42:04.000000000 Z
@@ -650,7 +678,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2020-03-02 13:11:29.000000000 Z
@@ -661,6 +689,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3519/3wgIDj3j_normal.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/integration/docker-compose.yml
   detection_source: integration/docker-compose.yml
   last_updated_by: Michael Kaufman
   last_updated_on: 2019-06-26 15:26:02.000000000 Z
@@ -673,6 +702,7 @@ tools:
   category: Application Utilities
   sub_category: User Management and Authentication
   image_url: https://ucarecdn.com/8f3cac0e-b146-4f0f-878c-680a6671d804/
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/19-auth-jwt/package.json
   detection_source: sample/19-auth-jwt/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-06-29 12:11:57.000000000 Z
@@ -685,6 +715,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/TawandaMavondo/nest
   detection_source: Repo Metadata
 - name: Wrk
   description: A simple and affordable way to hire
@@ -694,6 +725,7 @@ tools:
   category: Back Office
   sub_category: Hiring Platforms
   image_url: https://img.stackshare.io/service/12180/c5c4d80b-73d0-4521-b36f-475122d8aa9d.jpeg
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package.json
   detection_source: package.json
   last_updated_by: kamil.mysliwiec
   last_updated_on: 2017-01-08 14:09:41.000000000 Z
@@ -703,6 +735,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5723/lmrSw1Oc_normal.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-06-30 16:46:14.000000000 Z
@@ -716,7 +749,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-21 03:30:37.000000000 Z
@@ -725,6 +758,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-07 10:23:10.000000000 Z
@@ -733,6 +767,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-14 03:00:31.000000000 Z
@@ -746,7 +781,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/09-babel-example/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/09-babel-example/package-lock.json
   detection_source: sample/09-babel-example/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-03 16:13:47.000000000 Z
@@ -760,7 +795,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: sample/09-babel-example/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-03 16:13:47.000000000 Z
@@ -774,7 +809,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16153/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/09-babel-example/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/09-babel-example/package-lock.json
   detection_source: sample/09-babel-example/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-03 16:13:47.000000000 Z
@@ -788,7 +823,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16147/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/09-babel-example/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/09-babel-example/package-lock.json
   detection_source: sample/09-babel-example/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-03 16:13:47.000000000 Z
@@ -802,7 +837,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15952/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/09-babel-example/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/09-babel-example/package-lock.json
   detection_source: sample/09-babel-example/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-03 16:13:47.000000000 Z
@@ -816,7 +851,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/09-babel-example/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/09-babel-example/package-lock.json
   detection_source: sample/09-babel-example/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-03 16:13:47.000000000 Z
@@ -830,7 +865,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16014/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/09-babel-example/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/09-babel-example/package-lock.json
   detection_source: sample/09-babel-example/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-03 16:13:47.000000000 Z
@@ -844,7 +879,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: sample/09-babel-example/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-03 16:13:47.000000000 Z
@@ -858,7 +893,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16059/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-14 03:00:31.000000000 Z
@@ -872,7 +907,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16924/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-14 03:00:31.000000000 Z
@@ -886,7 +921,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18549/default_0e8c62fd0420ce3873a7b150d09fb9d1094266c0.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-07-16 09:32:44.000000000 Z
@@ -900,7 +935,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16950/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
   detection_source: packages/core/package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2020-08-31 10:42:41.000000000 Z
@@ -914,7 +949,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17223/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
   detection_source: packages/microservices/package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2020-08-31 10:42:41.000000000 Z
@@ -935,7 +970,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17855/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
   detection_source: sample/01-cats-app/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-08 08:05:22.000000000 Z
@@ -949,7 +984,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18378/default_b2c6032681a6747cfd45e1399143ed0d1db9b898.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-14 00:38:01.000000000 Z
@@ -963,7 +998,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -977,7 +1012,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16527/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -991,7 +1026,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17290/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -1005,7 +1040,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16809/default_9a5182350af29cb82b3344853e865051f508ac6c.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/25-dynamic-modules/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/25-dynamic-modules/package-lock.json
   detection_source: sample/25-dynamic-modules/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-07 18:51:34.000000000 Z
@@ -1019,7 +1054,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -1033,7 +1068,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16929/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -1047,7 +1082,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
   detection_source: sample/01-cats-app/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-07 18:51:34.000000000 Z
@@ -1061,7 +1096,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -1075,7 +1110,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16898/default_884deeafc4d4b680b6d9cb7e3759ba2db025e8e7.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-11 17:36:46.000000000 Z
@@ -1089,7 +1124,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -1103,7 +1138,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17536/default_1d2902e8f9c84259702671591379572493b9009b.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -1117,7 +1152,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17759/default_8cfeb169319d5cc646c1e13f8a10e7d7e7430d7c.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -1131,7 +1166,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18305/default_adee5b58cc2acb885faff4066ee6d7281131005f.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/07-sequelize/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/07-sequelize/package-lock.json
   detection_source: sample/07-sequelize/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-07 18:51:34.000000000 Z
@@ -1145,7 +1180,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16151/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -1159,7 +1194,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17219/default_747c790463912ea0e3a85597146d9c13d6a53db9.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -1173,7 +1208,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16805/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
   detection_source: sample/01-cats-app/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-07 18:51:34.000000000 Z
@@ -1187,7 +1222,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16711/default_9cd376f2200c8f6c32ebd690bb6c290852dee64d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -1201,7 +1236,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-14 03:00:31.000000000 Z
@@ -1215,7 +1250,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-14 03:00:31.000000000 Z
@@ -1229,7 +1264,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16639/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-14 00:38:01.000000000 Z
@@ -1243,7 +1278,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18230/default_2c3976088fc45d7746e80d08ccf312c0cbcccba7.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/12-graphql-schema-first/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/12-graphql-schema-first/package-lock.json
   detection_source: sample/12-graphql-schema-first/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-27 18:49:34.000000000 Z
@@ -1272,7 +1307,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17501/default_1d2902e8f9c84259702671591379572493b9009b.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-07 09:38:37.000000000 Z
@@ -1286,7 +1321,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16085/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -1300,7 +1335,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-07 18:51:34.000000000 Z
@@ -1314,7 +1349,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17201/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2019-11-11 19:56:06.000000000 Z
@@ -1328,7 +1363,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15970/default_cbd6c289400672b291755183817e9dd6abe1a612.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-07-23 18:29:57.000000000 Z
@@ -1342,7 +1377,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18178/default_d3a7b83d655e8a05ff3ca4b53648a053e1d909b2.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-28 06:24:32.000000000 Z
@@ -1357,7 +1392,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17651/default_eb9caf7d7fb4d231f7e3b04a8c1fbef6fcd9fd73.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-28 06:24:32.000000000 Z
@@ -1372,7 +1407,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17583/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-07-29 22:26:02.000000000 Z
@@ -1393,7 +1428,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16493/default_e8b43b4cc93dd2989e630d56550f589fccdcda03.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2019-10-09 14:38:09.000000000 Z
@@ -1407,7 +1442,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-07 13:59:14.000000000 Z
@@ -1421,7 +1456,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16618/default_9012166d3e51cea5db6b4e69c80ace1c50b7509d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-14 00:38:01.000000000 Z
@@ -1435,7 +1470,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2020-07-01 12:05:32.000000000 Z
@@ -1449,7 +1484,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-07-31 20:48:33.000000000 Z
@@ -1463,7 +1498,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-14 03:00:31.000000000 Z
@@ -1477,7 +1512,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-14 03:00:31.000000000 Z
@@ -1491,7 +1526,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-07 09:38:37.000000000 Z
@@ -1512,7 +1547,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17353/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2019-07-10 19:50:44.000000000 Z
@@ -1526,7 +1561,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16697/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-14 01:28:06.000000000 Z
@@ -1540,7 +1575,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16218/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2020-03-02 12:46:26.000000000 Z
@@ -1554,7 +1589,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15958/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2020-03-02 12:46:26.000000000 Z
@@ -1568,7 +1603,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16141/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 07:39:16.000000000 Z
@@ -1582,7 +1617,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16175/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2020-03-02 12:46:26.000000000 Z
@@ -1597,7 +1632,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: sample/17-mvc-fastify/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-04-03 18:09:49.000000000 Z
@@ -1624,7 +1659,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17878/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/15-mvc/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/15-mvc/package-lock.json
   detection_source: sample/15-mvc/package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2018-01-02 11:38:48.000000000 Z
@@ -1636,6 +1671,20 @@ tools:
     detected_date: Sep 3
     severity: moderate
     first_patched: 
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2020-09-07 10:23:10.000000000 Z
 - name: imports-loader
   description: Imports loader module for webpack
   package_url: https://www.npmjs.com/imports-loader
@@ -1646,7 +1695,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16422/default_cdeaf2fdc112ae29eada7343314e0eee59c7eb0d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-17 11:51:58.000000000 Z
@@ -1660,10 +1709,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15995/default_200de1a6fc4121e019ce4a5b0cf9ad37c7756e2d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-10 14:27:09.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 10.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2020-09-14 03:00:31.000000000 Z
 - name: multer
   description: Middleware for handling `multipart/form-data`
   package_url: https://www.npmjs.com/multer
@@ -1674,7 +1737,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16421/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-03 18:40:17.000000000 Z
@@ -1688,7 +1751,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16671/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/07-sequelize/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/07-sequelize/package-lock.json
   detection_source: sample/07-sequelize/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2019-12-24 04:23:34.000000000 Z
@@ -1702,7 +1765,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: kamil.mysliwiec
   last_updated_on: 2017-01-08 14:09:41.000000000 Z
@@ -1716,7 +1779,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16940/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2020-07-01 12:05:32.000000000 Z
@@ -1730,7 +1793,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18238/default_d0bdfc944c04fa7e84198f9a2784cc716a3d91a3.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/19-auth-jwt/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/19-auth-jwt/package-lock.json
   detection_source: sample/19-auth-jwt/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-06-29 12:11:57.000000000 Z
@@ -1744,7 +1807,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16747/default_adce7cef6d131ffc31466624541462e4db9534d4.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/19-auth-jwt/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/19-auth-jwt/package-lock.json
   detection_source: sample/19-auth-jwt/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-06-29 12:11:57.000000000 Z
@@ -1758,7 +1821,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16316/default_97104dc50154593d2dde1d791400955934c9c715.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2020-03-02 12:46:26.000000000 Z
@@ -1772,7 +1835,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Kamil Myśliwiec
   last_updated_on: 2020-03-02 13:11:29.000000000 Z
@@ -1786,7 +1849,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: sample/01-cats-app/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-02-09 08:56:53.000000000 Z
@@ -1801,7 +1864,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16746/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-07 02:22:51.000000000 Z
@@ -1815,7 +1878,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15914/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-21 18:58:43.000000000 Z
@@ -1829,7 +1892,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16164/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-11 09:58:54.000000000 Z
@@ -1843,7 +1906,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17948/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-14 00:38:01.000000000 Z
@@ -1858,7 +1921,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
   detection_source: sample/01-cats-app/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-09-02 16:21:37.000000000 Z
@@ -1872,7 +1935,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
   detection_source: sample/01-cats-app/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-24 10:21:35.000000000 Z
@@ -1886,7 +1949,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-21 18:32:24.000000000 Z
@@ -1900,7 +1963,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16810/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: sample/01-cats-app/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-04-21 19:45:37.000000000 Z
@@ -1914,7 +1977,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-06 22:43:54.000000000 Z
@@ -1928,7 +1991,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-07-27 19:08:51.000000000 Z
@@ -1942,7 +2005,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/08-webpack/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/08-webpack/package-lock.json
   detection_source: sample/08-webpack/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-07-30 08:24:10.000000000 Z
@@ -1956,7 +2019,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16156/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
+  detection_source_url: https://github.com/TawandaMavondo/nest/blob/master/sample/01-cats-app/package-lock.json
   detection_source: sample/08-webpack/package.json
   last_updated_by: Renovate Bot
   last_updated_on: 2020-08-21 18:32:24.000000000 Z
